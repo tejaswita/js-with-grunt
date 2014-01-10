@@ -1,6 +1,6 @@
 {
   "name": "GruntSession",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Tejaswita",
   "private": true,
   "devDependencies": {
@@ -11,6 +11,7 @@
     "grunt-contrib-uglify": "*",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.8.0",
-    "grunt-bump": "0.0.13"
+    "grunt-bump": "0.0.13",
+    "grunt-contrib-cssmin": "~0.7.0"
   }
 }
